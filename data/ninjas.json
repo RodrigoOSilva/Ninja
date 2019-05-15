@@ -1,0 +1,6 @@
+[
+    {"name":"Yoshi","belt":"green","rate":50,"available":true,"thumb":"app/lib/img/red-cartoon-ninja.png"},
+    {"name":"Crystal","belt":"Yellow","rate":30,"available":true,"thumb":"app/lib/img/white-ninja-cartoon.png"},
+    {"name":"Ryu","belt":"Orange","rate":10,"available":true,"thumb":"app/lib/img/black-ninja-cartoon.png"},
+    {"name":"Shaun","belt":"Black","rate":1000,"available":true,"thumb":"app/lib/img/red-cartoon-ninja.png"}
+]
